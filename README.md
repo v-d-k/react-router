@@ -4,6 +4,9 @@ A modern, production-ready template for building full-stack React applications u
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
 
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/Gremmi?referralCode=BDyrkn&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 ## Features
 
 - 🚀 Server-side rendering
